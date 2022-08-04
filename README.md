@@ -1,0 +1,1 @@
+# canon.printer.error.code.E04
